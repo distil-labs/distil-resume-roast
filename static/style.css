@@ -1,0 +1,182 @@
+:root {
+    --bg-color: #0d1117;
+    --card-bg: #161b22;
+    --text-main: #c9d1d9;
+    --text-header: #ffffff;
+    --accent-red: #ff4b4b; /* The Roast Color */
+    --accent-green: #2ea043; /* The Advice Color */
+    --border: #30363d;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 700px;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Typography */
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 2.5rem;
+    color: var(--text-header);
+    margin: 10px 0;
+    letter-spacing: -1px;
+}
+
+.subtitle {
+    color: #8b949e;
+    margin-bottom: 40px;
+}
+
+.flame-icon {
+    font-size: 3rem;
+    animation: flicker 2s infinite;
+}
+
+@keyframes flicker {
+    0% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.8; transform: scale(1.1); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+/* Upload Area */
+.upload-area {
+    background: var(--card-bg);
+    border: 2px dashed var(--border);
+    border-radius: 12px;
+    padding: 40px;
+    cursor: pointer;
+    transition: 0.2s all;
+}
+
+.upload-area:hover {
+    border-color: var(--accent-red);
+    background: #1c2128;
+}
+
+.upload-content svg {
+    color: var(--text-main);
+    margin-bottom: 15px;
+}
+
+.file-info {
+    display: block;
+    margin-top: 10px;
+    color: var(--accent-red);
+    font-weight: bold;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* Buttons */
+#roast-btn {
+    background: var(--accent-red);
+    color: white;
+    border: none;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 15px 40px;
+    margin-top: 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 15px rgba(255, 75, 75, 0.3);
+    transition: transform 0.1s;
+    width: 100%;
+}
+
+#roast-btn:hover { transform: scale(1.02); }
+#roast-btn:active { transform: scale(0.98); }
+#roast-btn:disabled { background: #333; cursor: not-allowed; }
+
+/* Loader */
+.loader-container {
+    display: none; /* Hidden by default */
+    margin-top: 30px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid #333;
+    border-top: 4px solid var(--accent-red);
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+/* Results */
+.hidden { display: none; }
+
+.rating-box {
+    margin: 40px 0 20px;
+}
+
+.rating-label {
+    display: block;
+    font-size: 0.9rem;
+    color: #8b949e;
+    letter-spacing: 1px;
+}
+
+.rating-number {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 4rem;
+    font-weight: 800;
+    color: var(--text-header);
+}
+
+.card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Roast Card Styles */
+.roast-card {
+    border-left: 5px solid var(--accent-red);
+}
+
+.roast-card h2 { color: var(--accent-red); margin-top: 0; }
+
+.typewriter-text {
+    font-family: 'JetBrains Mono', monospace;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+/* Advice Card Styles */
+.advice-card {
+    border-left: 5px solid var(--accent-green);
+}
+
+.advice-card h2 { color: var(--accent-green); margin-top: 0; }
+
+ul { padding-left: 20px; }
+li { margin-bottom: 10px; line-height: 1.5; }
+
+.reset-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: #8b949e;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.reset-btn:hover { color: white; border-color: white; }

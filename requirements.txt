@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+accelerate
+bitsandbytes
+pymupdf
+huggingface_hub
+bitsandbytes
