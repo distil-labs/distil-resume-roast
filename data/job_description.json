@@ -1,0 +1,4 @@
+{
+  "task_description": "## Task\nGenerate a brutally honest 'roast' critique of a provided resume, followed by constructive professional suggestions and a numerical rating. The output must be a stringified JSON object with specific fields.\n\n## Inputs\nA realistic resume text (context) that varies in experience level (Entry Level, Senior, etc.), quality (with typos, well-written), and content.\n\n## Outputs\nA stringified JSON object containing:\n- 'roast_critique': A sarcastic, humorous paragraph quoting specific problematic parts of the resume.\n- 'professional_suggestions': A list of exactly 3 constructive, actionable tips to improve the resume.\n- 'rating': An integer between 1 and 10 representing the resume's quality.",
+  "context_description": "A resume text containing personal information, work experience, education, skills, and other relevant sections."
+}

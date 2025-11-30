@@ -1,0 +1,13 @@
+base:
+  task: information-extraction
+  student_model_name: Llama-3.2-3B-Instruct
+  teacher_model_name: Llama-3.3-70B-Instruct
+
+tuning:
+  per_device_train_batch_size: 1
+  per_device_eval_batch_size: 1
+  num_train_epochs: 4
+
+synthgen:
+  generation_target: 10000
+  output_is_json: true

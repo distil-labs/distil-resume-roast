@@ -1,0 +1,1282 @@
+question,answer,context,reasoning
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Wow, Emily, you’ve managed to cram an entire marketing textbook into a one‑page résumé. Opening with “Dynamic marketing professional” feels like you’re auditioning for a hype‑man role, and the phrase “up to 45%” in your summary is about as precise as a weather forecast. Your “Senior Marketing Manager” bullet points are stuffed with big numbers—$3.2 M revenue increase, 3.2× ROAS, 38% time cut—yet you completely forget to tell us *how* you did it, leaving the reader guessing if you just waved a magic wand. The older roles sound like you were busy “producing SEO‑optimized copy” and “coordinating trade shows” without any proof that those activities actually moved the needle. And “References: Available upon request” is the résumé equivalent of “I’m not lazy, I’m just delegating,” which is frankly the most over‑used line in the industry. Good luck standing out when hiring managers are already snoozing after the first paragraph."",
+  ""professional_suggestions"": [
+    ""Trim the buzz‑filled summary to a concise 2‑3 sentence value proposition that showcases a unique impact, and replace vague qualifiers like “up to 45%” with concrete, verifiable results."",
+    ""Add specific metrics or outcomes for the earlier roles (e.g., percentage increase in qualified leads from trade shows) and briefly describe the tactics or tools you used to achieve them, ensuring consistency across all experience sections."",
+    ""Streamline the layout: remove the redundant “References available upon request,” consider adding a hyperlink to your LinkedIn profile, and ensure bullet formatting and punctuation are uniform for a cleaner, more professional appearance.""
+  ],
+  ""rating"": 8
+}","**Emily R. Thompson**  
+1234 Oakwood Drive • Boston, MA 02118  
+Phone: (617) 555‑8421 • Email: emily.thompson@email.com • LinkedIn: linkedin.com/in/emilyrthompson  
+
+---
+
+### Professional Summary
+Dynamic marketing professional with 6+ years of experience driving brand growth and digital engagement for B2B technology firms. Proven track record of developing data‑driven campaigns that increase lead generation by up to 45% and improve ROI through strategic content creation, SEO, and marketing automation.
+
+---
+
+### Work Experience  
+
+**Senior Marketing Manager** – *Nimbus Cloud Solutions, Boston, MA*  
+*June 2020 – Present*  
+- Lead a cross‑functional team of 8 in planning and executing multi‑channel campaigns (email, paid social, webinars).  
+- Designed and launched a account‑based marketing (ABM) program that contributed to a $3.2 M revenue increase in FY2022.  
+- Managed $1.1 M annual marketing budget, optimizing spend to achieve a 3.2 × return on ad spend (ROAS).  
+- Implemented HubSpot CRM workflows, cutting lead‑to‑opportunity time by 38%.
+
+**Marketing Specialist** – *TechPulse Innovations, Cambridge, MA*  
+*July 2017 – May 2020*  
+- Produced SEO‑optimized website copy and blog posts, boosting organic traffic by 62% within 12 months.  
+- Coordinated trade show presence, generating 250+ qualified leads per event.  
+- Analyzed campaign performance using Google Analytics and Tableau; presented actionable insights to senior leadership.
+
+**Digital Marketing Coordinator** – *Harbor Media Group, Boston, MA*  
+*January 2015 – June 2017*  
+- Managed email marketing programs (list growth of 15% YoY) and social media calendars for 10+ client accounts.  
+- Created video scripts and oversaw production, resulting in a 27% increase in video view-through rates.
+
+---
+
+### Education  
+
+**Master of Science in Marketing Analytics** – *Northeastern University, Boston, MA*  
+*2018 – 2020*  
+
+**Bachelor of Business Administration (BBA), Marketing** – *Boston College, Chestnut Hill, MA*  
+*2011 – 2015*  
+
+---
+
+### Skills  
+
+- **Marketing Automation:** HubSpot, Marketo, Pardot  
+- **Analytics & Reporting:** Google Analytics, Tableau, Power BI, SQL  
+- **SEO/SEM:** Ahrefs, SEMrush, Google Ads  
+- **Content Creation:** Adobe Creative Suite, Canva, WordPress  
+- **Project Management:** Asana, Trello, Agile methodologies  
+- **Communications:** Copywriting, Public Speaking, Stakeholder Management  
+
+---
+
+### Certifications  
+
+- HubSpot Marketing Software Certification (2021)  
+- Google Ads Search Certification (2022)  
+- Certified ScrumMaster (CSM) – Scrum Alliance (2023)  
+
+---
+
+### Professional Affiliations  
+
+- Member, American Marketing Association (AMA)  
+- Boston Chapter, Digital Marketing Institute (DMI)  
+
+---
+
+### References  
+
+Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Wow, Marcus, your resume reads like a DevOps brag‑fest written by a hype‑machine. You start with an \""Objective\"" that is basically a copy‑paste of every senior SRE LinkedIn headline – \""Seasoned DevOps Engineer with 8 years of experience…\"" – as if the hiring manager can’t tell the difference between “seasoned” and “still using buzzwords”. You sprinkle every paragraph with percentages and “‑‑” numbers (\""99.96 % uptime\"", \""45 % reduction in MTTR\"", \""cutting provisioning time from weeks to minutes\"") but you never say *why* those matter to the business – are we talking about $ millions saved or just vanity metrics? The dreaded \""References available upon request\"" at the very bottom feels like a relic from the 90s that only clutters the page. And while you’ve got a laundry list of tools, there’s no hint of soft‑skill prowess – no mention of team leadership, stakeholder communication, or conflict resolution, which are half the job when you’re “driving operational excellence”. In short, you’ve built an impressive tech checklist but forgot to turn it into a compelling story."",
+  ""professional_suggestions"": [
+    ""Replace the generic Objective with a concise 2‑sentence summary that highlights a unique value proposition (e.g., specific business impact you delivered) and eliminates buzz‑word filler."",
+    ""For each quantified achievement, add a brief business context (cost savings, revenue impact, customer satisfaction) so recruiters can gauge real value, and trim any redundant metrics."",
+    ""Remove the outdated \""References available upon request\"" line, and incorporate a short soft‑skill bullet (e.g., cross‑functional leadership, incident communication) to balance the heavy technical emphasis.""
+  ],
+  ""rating"": 8
+}","**Marcus T. Nguyen**  
+Phone: (303) 555‑0198 | Email: marcus.nguyen@email.com | GitHub: github.com/marcusnguyen | LinkedIn: linkedin.com/in/marcusnguyen  
+Location: Denver, CO  
+
+---
+
+### Objective  
+Seasoned DevOps Engineer with 8 years of experience automating infrastructure, optimizing CI/CD pipelines, and enhancing system reliability for SaaS and IoT ecosystems. Seeking to apply cloud‑native expertise and site‑reliability engineering (SRE) principles to drive operational excellence at a high‑growth technology firm.
+
+---
+
+### Professional Experience  
+
+**Senior DevOps Engineer – Platform Reliability** – **AstraCloud Services**, Denver, CO  
+*March 2020 – Present*  
+- Designed and managed a multi‑region Kubernetes architecture (EKS) serving >1 M daily active users, achieving 99.96 % uptime.  
+- Implemented Infrastructure‑as‑Code using Terraform and Pulumi, reducing provisioning time from weeks to minutes and cutting configuration drift by 97 %.  
+- Developed automated canary deployment pipelines with Argo CD and Flux, decreasing release rollback incidents by 82 %.  
+- Established SLO/SLI frameworks and error‑budget policies, leading to a 45 % reduction in mean time to recovery (MTTR).  
+
+**DevOps Engineer – IoT Edge Platform** – **NovaSense Technologies**, Austin, TX  
+*July 2015 – Feb 2020*  
+- Built CI/CD workflows in GitLab CI for Go‑based microservices, integrating automated security scans (Snyk, Trivy) that lowered vulnerability exposure by 68 %.  
+- Orchestrated Docker Swarm clusters on edge gateways, improving firmware update latency from 12 h to under 30 min.  
+- Implemented centralized logging (ELK stack) and metric collection (Prometheus + Grafana) for 5,000+ devices, enabling proactive alerts and capacity planning.  
+- Conducted chaos engineering experiments with Gremlin, strengthening system resiliency and informing design improvements.
+
+**Systems Administrator** – **Evergreen Financial**, Boulder, CO  
+*Jan 2012 – Jun 2015*  
+- Managed Windows Server and Linux (RHEL) environments, performing daily backups and disaster‑recovery drills.  
+- Automated routine tasks via PowerShell and Bash scripts, saving an estimated 200 hours of manual effort per year.  
+
+---
+
+### Education  
+
+**Bachelor of Science in Computer Engineering** – Colorado School of Mines, Golden, CO  
+*2008 – 2012* – GPA: 3.78/4.0  
+
+---
+
+### Core Competencies  
+
+- **Cloud Platforms:** AWS (EKS, ECS, Lambda, CloudFormation), GCP (GKE, Cloud Run), Azure AKS  
+- **IaC & Configuration Management:** Terraform, Pulumi, Ansible, Chef  
+- **CI/CD & Automation:** GitHub Actions, GitLab CI, Jenkins, Argo CD, Helm  
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm, Kustomize  
+- **Monitoring & Observability:** Prometheus, Grafana, Datadog, New Relic, ELK Stack  
+- **Security & Compliance:** OPA, Snyk, HashiCorp Vault, SOC 2, GDPR  
+
+---
+
+### Technical Skills  
+
+- **Scripting Languages:** Bash, Python, Go, PowerShell  
+- **Version Control:** Git (GitHub, GitLab, Bitbucket)  
+- **Networking:** VPC design, TCP/IP, Load Balancers (ALB/NLB), Service Mesh (Istio)  
+
+---
+
+### Certifications  
+
+- AWS Certified DevOps Engineer – Professional (2021)  
+- Certified Kubernetes Administrator (CKA) – The Linux Foundation (2020)  
+- Google Professional Cloud DevOps Engineer (2022)  
+
+---
+
+### Selected Projects  
+
+**“Unified Edge Deployment Framework”** – Created a Terraform module library and GitOps workflow enabling zero‑downtime updates for 4,000+ IoT edge nodes, cutting operational costs by 30 %.  
+
+**“Real‑Time Incident Response Dashboard”** – Developed a Grafana‑based console integrating alerts from Prometheus, PagerDuty, and Slack; reduced alert fatigue and improved MTTR by 38 %.  
+
+---
+
+### Professional Activities  
+
+- Contributor to the **Open‑Source Helm Charts** project – authored charts for a distributed tracing stack (Jaeger, OpenTelemetry).  
+- Speaker at **SRECon 2023** – Presented “Error‑Budget‑Driven Culture for Agile Teams.”  
+- Member, **Cloud Native Computing Foundation (CNCF)** – Volunteer reviewer for the CNCF Landscape project.  
+
+---  
+
+**References available upon request.**",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Wow, Michael, your resume is practically a brag‑fest. You start by shouting \""Directed a $4 M annual digital spend\"" and then follow up with a “45% YoY increase in qualified leads” as if that alone guarantees you a seat on a board. The “boosted organic traffic by 62%” line reads like a press release you wrote for yourself, and let’s not forget the humble “Instagram followers from 3k to 18k” – because apparently the world needs to know you’re a social media wizard. Your Core Competencies list is so exhaustive it feels like you’re trying to fit every marketing buzzword under the sun, and the Technical Skills section even throws in “basic JavaScript (for landing‑page tweaks)” as if that’s the secret sauce. All that glitter, but where’s the story of how you actually lead teams, solve problems, or handle failure? It’s a résumé that sounds more like a LinkedIn headline generator than a genuine professional narrative."",
+  ""professional_suggestions"": [
+    ""Condense the Core Competencies and Technical Skills sections to focus on the most relevant tools for the target role, removing redundant or peripheral items."",
+    ""Add a brief ‘Key Achievements’ bullet under each role that highlights a specific challenge, the action you took, and the measurable result to give context to the impressive metrics."",
+    ""Include a concise soft‑skills paragraph or examples (e.g., stakeholder management, cross‑functional collaboration) to balance the heavy emphasis on hard metrics and show leadership depth.""
+  ],
+  ""rating"": 8
+}","**Michael A. Lee**  
+Phone: (555) 312‑8745 | Email: michael.lee@proemail.com | Portfolio: michaellee.design  
+Location: Seattle, WA  
+
+---
+
+### Career Objective
+Creative and results‑driven Marketing Manager with 7 years of experience leading integrated campaigns for B2B SaaS and consumer technology brands. Expert in brand strategy, digital advertising, content creation, and data‑driven performance optimization. Seeking to leverage analytical and storytelling skills to elevate brand presence at an innovative growth‑focused company.
+
+---
+
+### Professional Experience
+
+**Marketing Manager – Digital Strategy** – **Nimbus Cloud Services**, Seattle, WA  
+*March 2020 – Present*  
+- Directed a $4 M annual digital spend across Google Ads, LinkedIn, and programmatic channels, generating a 45% YoY increase in qualified leads.  
+- Designed and executed a AB‑tested SEO overhaul that boosted organic traffic by 62% and improved keyword rankings for 30+ high‑value terms.  
+- Managed a team of 4 marketers and 2 external agencies; instituted weekly KPI dashboards using Tableau, enabling real‑time budget reallocations.  
+- Launched a customer‑advocacy program, increasing referral conversions by 28% and contributing $1.2 M in incremental revenue.
+
+**Senior Content Marketing Specialist** – **PulseTech Innovations**, Portland, OR  
+*July 2015 – Feb 2020*  
+- Produced over 120 pieces of long‑form content (whitepapers, case studies, e‑books) that supported the sales funnel, resulting in a 34% rise in MQLs.  
+- Coordinated multi‑channel product launches, integrating email, social media, webinars, and PR; achieved an average media reach of 1.8 M impressions per launch.  
+- Implemented marketing automation workflows in HubSpot, decreasing lead nurturing time from 14 days to 6 days.  
+- Conducted market research and competitive analysis to identify emerging trends, informing product roadmap decisions.
+
+**Marketing Coordinator** – **EchoWave Audio**, Vancouver, BC (Remote)  
+*Jan 2013 – Jun 2015*  
+- Assisted in planning and executing trade‑show presence at CES and NAB, generating 250+ qualified leads per event.  
+- Managed social media calendars and grew Instagram followers from 3k to 18k within 12 months through targeted content and influencer collaborations.  
+
+---
+
+### Education
+
+**Master of Business Administration (MBA), Marketing** – Seattle University, Seattle, WA  
+*Sept 2016 – May 2018* – GPA: 3.9/4.0  
+
+**Bachelor of Arts in Communications** – University of British Columbia, Vancouver, BC  
+*Sept 2009 – Jun 2013* – Minor in Graphic Design  
+
+---
+
+### Core Competencies
+- **Digital Advertising:** Google Ads, LinkedIn Ads, Meta Business Suite, programmatic DSPs  
+- **Analytics & Reporting:** Google Analytics 4, Tableau, Power BI, Adobe Analytics  
+- **Marketing Automation:** HubSpot, Marketo, Mailchimp, Salesforce Marketing Cloud  
+- **Content Strategy:** SEO, Copywriting, Video Production, Storytelling  
+- **Social Media Management:** Sprout Social, Hootsuite, TikTok for Business  
+- **Project Management:** Agile Scrum, Asana, Monday.com  
+
+---
+
+### Technical Skills
+- **Design Tools:** Adobe Photoshop, Illustrator, Figma, Canva  
+- **CRM & Data:** Salesforce, HubSpot CRM, Excel (advanced), SQL basics for data extraction  
+- **Web Technologies:** HTML5, CSS3, basic JavaScript (for landing‑page tweaks)  
+
+---
+
+### Certifications
+- Google Ads Search Certification (2023)  
+- HubSpot Content Marketing Certification (2021)  
+- Certified Digital Marketing Professional (CDMP) – Digital Marketing Institute (2020)  
+
+---
+
+### Selected Achievements
+- **Award:** “Best Integrated Campaign” – Martech Awards 2022 (Nimbus Cloud Services).  
+- **Revenue Impact:** Developed a retargeting strategy that generated $3.4 M in pipeline revenue within 9 months.  
+- **Thought Leadership:** Regular speaker at “Growth Hack Seattle” conference; published articles in MarketingProfs and HubSpot Blog.  
+
+---
+
+### Professional Memberships
+- American Marketing Association (AMA) – Seattle Chapter  
+- Interactive Advertising Bureau (IAB) – Member  
+
+---
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Sofia, your résumé reads like a brag‑sheet from a design conference power‑point. You start by bragging that you “achieved a 42 % increase in task completion rates and a 3‑star improvement in SUS scores” for a patient‑portal, as if anyone can instantly quantify every redesign with magical percentages. Then you sprinkle in a “4.8‑star average satisfaction rating on Upwork” from your junior days – nice to see freelance vanity metrics still haunt you. The “References: Provided upon request” line is the digital equivalent of a polite handshake that never happened, and your portfolio URL is missing the HTTPS prefix, as if recruiters should guess where to click. All the buzz‑words (design system, token strategy, WCAG 2.1 AA) are there, but the story behind the numbers and any soft‑skill narrative is MIA."",
+  ""professional_suggestions"": [
+    ""Rewrite the Objective into a concise, role‑specific value proposition that highlights a signature achievement (e.g., the telehealth UI redesign) and the senior impact you’ll bring, dropping generic language."",
+    ""Add brief context and outcome to each metric (what problem you solved, how you tackled it, and the business impact) and include a link to your design system or portfolio with a full https:// URL so hiring managers can verify your work."",
+    ""Remove the outdated “References: Provided upon request” line, and instead add a short soft‑skill/leadership bullet (e.g., stakeholder management, mentorship) to demonstrate how you collaborate and lead teams.""
+  ],
+  ""rating"": 8
+}","**Sofia M. Alvarez**  
+Phone: (202) 555‑6732 | Email: sofia.alvarez@email.com | Portfolio: sofiaalvarez.dev | Location: Washington, D.C.  
+
+---  
+
+### Objective  
+Innovative UX/UI Designer with 6 years of experience crafting user‑centered digital products for healthcare and e‑learning platforms. Seeking a senior design role where a blend of visual design, research, and prototyping can improve accessibility and engagement for diverse user populations.  
+
+---  
+
+### Experience  
+
+**Senior UX/UI Designer – Product Design** – *HealthBridge Innovations, Washington, D.C.*  
+*January 2022 – Present*  
+- Led the redesign of a patient‑portal mobile app, achieving a 42 % increase in task completion rates and a 3‑star improvement in SUS scores.  
+- Conducted longitudinal usability studies with 30+ participants, synthesizing findings into actionable design guidelines that reduced development rework by 27 %.  
+- Produced high‑fidelity prototypes in Figma and conducted hand‑off to development using Zeplin, cutting implementation time by 33 %.  
+- Established a design system (component library, token strategy) that ensured brand consistency across 5 product lines.  
+
+**UX Designer – E‑Learning Solutions** – *LearnWave Technologies, Boston, MA* (Remote)  
+*June 2018 – December 2021*  
+- Designed interactive lesson modules for a SaaS learning platform, boosting user engagement metrics by 58 % and decreasing churn by 12 %.  
+- Implemented accessibility audits (WCAG 2.1 AA) and introduced ARIA labeling across the suite, resulting in compliance certification.  
+- Collaborated with product managers and engineers in agile sprints, delivering feature releases every two weeks.  
+
+**Junior Visual Designer** – *PixelCraft Studios, Richmond, VA*  
+*August 2015 – May 2018*  
+- Created branding assets and UI mockups for small‑business clients, receiving a 4.8‑star average satisfaction rating on Upwork.  
+- Developed responsive email templates using HTML/CSS, achieving average open rates 19 % above industry benchmarks.  
+
+---  
+
+### Education  
+
+**Master of Fine Arts in Interaction Design** – *School of Visual Arts, New York, NY*  
+*Sept 2013 – May 2015* – GPA: 3.9/4.0  
+
+**Bachelor of Arts in Graphic Design** – *University of Virginia, Charlottesville, VA*  
+*Sept 2009 – May 2013* – Minor in Psychology  
+
+---  
+
+### Skills  
+
+- **Design Tools:** Figma, Sketch, Adobe Creative Cloud (XD, Illustrator, Photoshop), InVision  
+- **Research Methods:** User interviews, Card sorting, A/B testing, Heuristic evaluation, Journey mapping  
+- **Prototyping:** Axure RP, Principle, Framer, HTML/CSS/JS for interactive demos  
+- **Accessibility:** WCAG 2.1, ARIA, Color contrast analysis, screen‑reader testing  
+- **Collaboration:** Confluence, Miro, Slack, Jira, Design Thinking workshops  
+- **Front‑End Basics:** Responsive design, CSS Grid, Flexbox, basic React components  
+
+---  
+
+### Certifications  
+
+- Certified Professional in Accessibility (CPACC) – IAAP (2021)  
+- Nielsen Norman Group UX Certification – Interaction Design (2020)  
+
+---  
+
+### Projects  
+
+- **Telehealth UI Redesign:** Produced a mobile‑first interface for telemedicine consultations, decreasing average appointment setup time from 4 minutes to 1 minute.  
+- **Gamified Learning Dashboard:** Designed a dashboard with achievement badges and progress tracking, resulting in a 37 % increase in course completion rates.  
+
+---  
+
+### Professional Affiliations  
+
+- Member, Interaction Design Association (IxDA)  
+- Volunteer Mentor, Women Who Code – Washington, D.C. Chapter  
+
+---  
+
+**References:** Provided upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Liam, your résumé reads like a checklist for every buzzword a junior full‑stack engineer can cram onto a page. The opening line “Full‑Stack Software Engineer with 5 years of experience… Passionate about delivering clean, maintainable code that scales with business growth” is the exact copy‑paste you’ll find on a hundred LinkedIn profiles – zero personality, all filler. You brag about a React dashboard that “reduced client onboarding time by 38 % and increased daily active users by 22 %,” yet you never say what that actually meant for revenue or churn. The “>1 M transactions per month with sub‑second latency” sounds impressive until you realize you haven’t mentioned any SLA, cost, or business‑critical outcome. Your “Mentored two junior developers” is vague – what did they actually achieve under your guidance? The “References: Available upon request” line is the résumé equivalent of a stale meme, stuck in a 1990s template. In short, you’ve got the numbers, but you’ve hidden the story behind generic prose and outdated formatting."",
+  ""professional_suggestions"": [
+    ""Rewrite the Professional Summary into a punchy 2‑sentence value proposition that ties your technical expertise to concrete business outcomes (e.g., revenue uplift, cost reduction, risk mitigation)."",
+    ""For each bullet, add a brief clause that explains the impact of the metric (e.g., how the 38 % onboarding reduction translated into $X saved or how the 45 % cost reduction affected the bottom line), and highlight any leadership or cross‑functional collaboration involved."",
+    ""Remove the stale “References: Available upon request” line; instead, include a direct link to your portfolio or GitHub and add a short soft‑skill/leadership bullet (e.g., stakeholder communication, team mentorship) to balance the heavy technical focus.""
+  ],
+  ""rating"": 8
+}","**Liam J. Ortiz**  
+Phone: (415) 555‑8421 | Email: liam.ortiz@email.com | GitHub: github.com/liamjortiz | LinkedIn: linkedin.com/in/liamjortiz  
+Location: San Diego, CA  
+
+---  
+
+### Professional Summary  
+Full‑Stack Software Engineer with 5 years of experience building responsive web applications and micro‑service architectures for SaaS and fintech startups. Proficient in modern JavaScript frameworks, cloud‑native deployments, and test‑driven development. Passionate about delivering clean, maintainable code that scales with business growth.  
+
+---  
+
+### Work Experience  
+
+**Software Engineer – Core Platform** – *NimbusPay Solutions, San Diego, CA*  
+*March 2022 – Present*  
+- Designed and implemented a React‑based dashboard that reduced client onboarding time by 38 % and increased daily active users by 22 %.  
+- Built RESTful APIs with Node.js/Express and PostgreSQL, supporting >1 M transactions per month with sub‑second latency.  
+- Introduced a CI/CD pipeline using GitHub Actions and Docker, cutting release cycle from bi‑weekly to weekly while maintaining 99.9 % deployment success.  
+- Mentored two junior developers, establishing code‑review standards and a shared component library in Storybook.  
+
+**Full‑Stack Engineer** – *LedgerLoop Technologies, Remote*  
+*July 2019 – February 2022*  
+- Migrated legacy monolith to a micro‑service stack on AWS (ECS, DynamoDB), achieving 45 % cost reduction and improved fault isolation.  
+- Developed reusable UI components in Vue 3 with TypeScript, driving a consistent brand experience across three product lines.  
+- Implemented automated testing suite (Jest, Cypress) achieving 85 % code coverage and reducing post‑release bugs by 60 %.  
+
+**Web Developer** – *BrightWave Media, Los Angeles, CA*  
+*June 2017 – June 2019*  
+- Created custom WordPress themes and plugins for 30+ small‑business clients, increasing average session duration by 15 %.  
+- Optimized front‑end performance with lazy loading, code splitting, and image compression, achieving Lighthouse scores > 90.  
+
+---  
+
+### Education  
+
+**Bachelor of Science in Computer Science** – *University of California, Irvine*  
+*Sept 2013 – May 2017* – GPA: 3.78/4.0  
+
+---  
+
+### Technical Skills  
+
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Vue 3, Node.js, Python, Go  
+- **Databases:** PostgreSQL, MySQL, DynamoDB, Redis  
+- **Cloud & DevOps:** AWS (ECS, Lambda, RDS), Docker, Kubernetes, Terraform, GitHub Actions, CI/CD  
+- **Testing:** Jest, Mocha, Cypress, Selenium, TDD/BDD  
+- **Tools:** Git, VS Code, Jira, Confluence, Figma (design hand‑off)  
+
+---  
+
+### Certifications  
+
+- AWS Certified Developer – Associate (2021)  
+- Certified Kubernetes Application Developer (CKAD) – The Linux Foundation (2022)  
+
+---  
+
+### Projects  
+
+- **Real‑Time Fraud Detection Service:** Developed a Go micro‑service using Kafka streams and TensorFlow Lite to flag suspicious transactions within 200 ms, integrated into NimbusPay’s payment pipeline.  
+- **Open‑Source UI Kit – “ReactifyUI”** – Published a component library (30+ components) under MIT license; 2.3 k stars on GitHub, adopted by several startups.  
+
+---  
+
+### Professional Involvement  
+
+- Member, Association for Computing Machinery (ACM) – San Diego Chapter  
+- Volunteer Tutor, *Code for Good* – teaching web development basics to high‑school students  
+
+---  
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Emily, your résumé reads like a textbook on BI buzz‑words that someone copy‑pasted from a LinkedIn meme. The opening line “Analytical Business Intelligence Engineer with 5 years of experience turning complex data into strategic insights” is the same boilerplate you’ll find on every junior‑to‑mid‑level profile – no personality, no specificity. You brag about “Designed a dimensional data model in Snowflake that reduced report query times by 68 %” and “Built a suite of 30+ Tableau dashboards… leading to a 12 % reduction in stock‑outs,” yet you never say *how* those numbers translated into dollars saved or revenue gained for InsightLogix. The “Implemented automated data quality checks with dbt tests, catching 97 % of schema drifts” sounds impressive until you realize it’s just a re‑hash of a tool name with no context about the impact on business continuity. Even the classic “References: Available upon request” line is a relic from the fax‑machine era that screams you haven’t updated your copy‑writing game in a decade. In short, you’ve filled the page with metrics and tech jargon but left the hiring manager guessing what you actually delivered beyond the numbers."",
+  ""professional_suggestions"": [
+    ""Rewrite the Professional Summary into a 2‑sentence value proposition that highlights a unique achievement (e.g., “Delivered $X M revenue uplift by building a real‑time pricing engine”) and removes generic buzz‑words."",
+    ""For each quantified result, add a brief business context – explain the problem solved, the method used, and the concrete financial or operational impact (e.g., cost savings, revenue increase, customer retention)."",
+    ""Remove the outdated “References: Available upon request” line; instead include a link to a polished portfolio or GitHub showcase with a one‑sentence description of its contents.""
+  ],
+  ""rating"": 8
+}","**Emily S. Chu**  
+Phone: (312) 555‑7421 | Email: emily.chu@insightanalytics.com | LinkedIn: linkedin.com/in/emilyschu | Location: Chicago, IL  
+
+---  
+
+### Professional Summary  
+Analytical Business Intelligence Engineer with 5 years of experience turning complex data into strategic insights for retail and logistics firms. Skilled in end‑to‑end analytics pipeline development, interactive dashboard design, and advanced SQL modeling. Known for improving decision‑making speed and uncovering revenue‑boosting opportunities through data‑driven storytelling.  
+
+---  
+
+### Work Experience  
+
+**Business Intelligence Engineer – Analytics Hub** – **InsightLogix Corp**, Chicago, IL  
+*July 2021 – Present*  
+- Designed a dimensional data model in Snowflake that reduced report query times by 68 % and supported self‑service analytics for 120 business users.  
+- Built a suite of 30+ Tableau dashboards monitoring supply‑chain KPIs (inventory turnover, on‑time delivery, order fill rate), leading to a 12 % reduction in stock‑outs.  
+- Implemented automated data quality checks with dbt tests, catching 97 % of schema drifts before production loads.  
+- Collaborated with product managers to define OKRs and translated them into measurable data metrics, accelerating quarterly planning cycles.  
+
+**Data Analyst – Retail Insights** – **MetroMart Retail**, Detroit, MI (Remote)  
+*May 2018 – June 2021*  
+- Developed a predictive sales forecasting model using Prophet and PyTorch, achieving a mean absolute percentage error (MAPE) of 4.6 % across 200+ SKU lines.  
+- Created a customer‑lifetime‑value (CLV) scoring system that identified high‑value segments, contributing to a targeted marketing campaign that raised average basket size by 9 %.  
+- Consolidated disparate sales, marketing, and POS data sources into a unified Redshift warehouse, cutting ETL processing time from 4 hours to 45 minutes.  
+
+**Junior Data Analyst** – **Midwest Health Systems**, Chicago, IL  
+*Jan 2016 – Apr 2018*  
+- Produced monthly operational reports for hospital administration, improving data delivery timeliness from bi‑weekly to daily.  
+- Performed ad‑hoc statistical analyses (chi‑square, ANOVA) to support clinical trial enrollment strategies.  
+
+---  
+
+### Education  
+
+**Master of Science in Business Analytics** – DePaul University, Chicago, IL  
+*Sept 2014 – Dec 2015* – GPA: 3.88/4.0  
+
+**Bachelor of Arts in Economics** – University of Illinois at Chicago, IL  
+*Sept 2010 – May 2014* – Minor in Statistics  
+
+---  
+
+### Technical Skills  
+
+- **Programming / Scripting:** Python (pandas, NumPy, scikit‑learn), R, SQL, Bash  
+- **Databases & Warehouses:** Snowflake, Amazon Redshift, Google BigQuery, PostgreSQL, MySQL  
+- **ETL / ELT Tools:** dbt, Apache Airflow, Talend, Fivetran  
+- **BI & Visualization:** Tableau, Power BI, Looker, Metabase  
+- **Statistical Modeling:** Time‑series forecasting, Regression analysis, Clustering, Survival analysis  
+- **Cloud Platforms:** AWS (S3, Lambda, Glue), GCP (Dataflow, Composer)  
+- **Version Control & Collaboration:** Git, GitHub, Confluence, Jira, Slack  
+
+---  
+
+### Certifications  
+
+- Tableau Desktop Specialist, 2022  
+- Google Cloud Professional Data Engineer, 2021  
+- SnowPro Core Certification, 2023  
+
+---  
+
+### Selected Projects  
+
+**“Dynamic Pricing Engine”** – Built a real‑time pricing optimizer using Python and AWS Lambda that adjusted product prices based on demand signals, yielding a 4.3 % margin uplift.  
+
+**Open‑Source Contribution – “dbt‑sales‑metrics”** – Developed a reusable dbt package for sales funnel calculations; now adopted by 15 companies.  
+
+---  
+
+### Professional Affiliations  
+
+- Member, International Institute of Business Analysis (IIBA)  
+- Volunteer Data Coach, **DataKind Chicago** – Guided non‑profits on building data pipelines for impact reporting.  
+
+---  
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Aisha, your résumé reads like a mash‑up of every data‑science buzzword you could cram onto a page. Opening with the tired \""Results‑driven Data Scientist\"" line feels like you’re auditioning for a motivational poster, and the endless parade of numbers – “boosting average order value by 12%\"", \""saved $1.8 M annually\"", \""0.96 precision\"" – is impressive only until we realize you never explain the *business context* behind them. The bullet \""Mentored a team of 3 junior analysts, establishing coding standards and peer‑review processes that improved model reproducibility\"" sounds noble, but you don’t show any concrete outcome beyond vague reproducibility. And, of course, the classic \""References: Available upon request\"" clings to a 1990s relic as if it adds any credibility. In short, you’ve built a technical show‑reel with zero personality and a few outdated clichés."",
+  ""professional_suggestions"": [
+    ""Rewrite the professional summary to focus on a concrete value proposition (e.g., specific revenue impact or product improvements) and strip out generic hype like \""Results‑driven\""."",
+    ""For every metric, add a brief business context (e.g., percentage of total revenue, cost savings relative to budget, or impact on customer churn) so recruiters can gauge real value."",
+    ""Remove the antiquated \""References: Available upon request\"" line, replace it with a concise skills‑soft‑skill snapshot, and make your GitHub/portfolio link prominent with a short description of what it showcases.""
+  ],
+  ""rating"": 8
+}","**Aisha K. Patel**  
+Phone: (415) 742‑3981 | Email: aisha.patel@techmail.com | GitHub: github.com/aishap‑dev  
+Location: San Francisco, CA  
+
+---
+
+### Professional Summary  
+Results‑driven Data Scientist with 6 years of experience turning complex data sets into actionable insights for e‑commerce and fintech platforms. Proficient in statistical modeling, machine‑learning pipelines, and data‑visualization storytelling. Passionate about leveraging advanced analytics to drive product innovation and revenue growth.
+
+---
+
+### Work Experience  
+
+**Data Scientist – Machine Learning** – **CleverCart Analytics**, San Francisco, CA  
+*April 2021 – Present*  
+- Built and deployed a recommendation engine using collaborative filtering and XGBoost, boosting average order value by 12% and increasing repeat purchase rate by 9%.  
+- Developed an A/B testing framework in Python (SciPy, Statsmodels) that reduced experiment turnaround from 3 weeks to 5 days.  
+- Designed automated ETL pipelines with Apache Airflow and Snowflake, processing >2 TB of transactional data nightly.  
+- Mentored a team of 3 junior analysts, establishing coding standards and peer‑review processes that improved model reproducibility.
+
+**Senior Business Analyst – Data Engineering** – **FinEdge Solutions**, New York, NY (Remote)  
+*January 2018 – March 2021*  
+- Created predictive churn models (Logistic Regression, Gradient Boosted Trees) achieving 84% ROC‑AUC, enabling targeted retention campaigns that saved $1.8 M annually.  
+- Led migration from on‑premise Hadoop cluster to Google BigQuery, cutting query costs by 35% and improving latency by 48%.  
+- Produced interactive dashboards in Looker and Tableau for executive leadership, translating KPI trends into strategic decisions.
+
+**Data Analyst** – **MetroRetail Group**, Chicago, IL  
+*June 2015 – December 2017*  
+- Conducted market‑basket analysis that identified cross‑sell opportunities, contributing to a $3.2 M revenue uplift.  
+- Automated weekly sales reporting with R Markdown, reducing manual effort by 70%.  
+
+---
+
+### Education  
+
+**Master of Science in Data Science** – University of California, Berkeley, CA  
+*Sept 2013 – May 2015* – GPA: 3.92/4.0  
+
+**Bachelor of Science in Statistics** – University of Illinois at Urbana‑Champaign, IL  
+*Sept 2009 – Jun 2013* – Minor in Computer Science  
+
+---
+
+### Technical Skills  
+
+- **Programming:** Python (pandas, scikit‑learn, PyTorch), R, SQL, Scala  
+- **Data Platforms:** Snowflake, BigQuery, Redshift, Hadoop, Spark  
+- **Visualization:** Tableau, Looker, Power BI, Plotly, Matplotlib  
+- **Machine Learning:** XGBoost, LightGBM, TensorFlow, Keras, NLP (spaCy, NLTK)  
+- **DevOps / MLOps:** Docker, Kubernetes, MLflow, Git, CI/CD (GitLab CI)  
+- **Statistical Methods:** Time‑series forecasting, Bayesian inference, survival analysis  
+
+---
+
+### Certifications  
+
+- Certified Data Scientist – Data Science Council of America (DASCA) (2022)  
+- Google Cloud Professional Data Engineer (2021)  
+
+---
+
+### Selected Projects  
+
+- **Fraud Detection System** – Designed a real‑time fraud scoring model (auto‑encoders + Gradient Boosting) with 0.96 precision, deployed via Kafka streaming.  
+- **Customer Segmentation** – Applied unsupervised clustering (k‑means, DBSCAN) to segment 4 M customers, informing personalized marketing strategies.  
+
+---
+
+### Professional Memberships  
+
+- Member, American Statistical Association (ASA)  
+- Member, Data Science Association (DSA)  
+
+---
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Elena, your resume reads like a buzzword bingo card that someone compiled during a CISSP study marathon. The Professional Summary is a laundry list of “threat hunting, incident response, security architecture” that could belong to any cyber‑analyst with a LinkedIn URL missing the https:// prefix, as if recruiters are expected to guess the right protocol. Your bullet points are jam‑packed with impressive percentages – \""neutralizing 34 critical APT attempts\"" and \""cutting lateral‑movement risk by 78%\"" – yet you never explain the business impact beyond vague money‑saving anecdotes, and the “References: Available upon request” line feels like a relic from the fax‑machine era. In short, you’ve got the credentials, but the copy sounds more like a brag‑sheet than a compelling narrative."",
+  ""professional_suggestions"": [
+    ""Rewrite the Professional Summary into a punchy 2‑sentence value proposition that highlights a single standout achievement (e.g., the $4.2 M loss averted) and the specific senior role you’re targeting, trimming generic buzzwords."",
+    ""Update all online links to full URLs (https://linkedin.com/in/elruariz) and remove the outdated “References: Available upon request” line; instead, add a brief note directing readers to your LinkedIn or portfolio for references."",
+    ""Add a brief context sentence to each metric (the problem, your action, and the business outcome) and include a dedicated soft‑skill bullet (e.g., stakeholder education or crisis communication) to demonstrate leadership beyond the numbers.""
+  ],
+  ""rating"": 8
+}","**Elena V. Ruiz**  
+Phone: (212) 555‑8421 | Email: elena.ruiz@email.com | LinkedIn: linkedin.com/in/elruariz | Location: New York, NY  
+
+---  
+
+### Professional Summary  
+Results‑driven Cybersecurity Analyst with 6 years of experience protecting enterprise networks and cloud environments across financial services and healthcare sectors. Proficient in threat hunting, incident response, and security architecture design. Skilled in leveraging SIEM tools, scripting automation, and risk assessment frameworks to reduce breach exposure and ensure regulatory compliance.  
+
+---  
+
+### Work Experience  
+
+**Senior Cybersecurity Analyst – Threat Operations** – **Apex Financial Group**, New York, NY  
+*May 2022 – Present*  
+- Conducted advanced threat‑hunt investigations using Splunk and Elastic SIEM, identifying and neutralizing 34 critical APT attempts, averting an estimated $4.2 M loss.  
+- Developed and automated a phishing‑simulation program in Python, increasing employee click‑rate awareness from 12 % to 3 % within six months.  
+- Designed a micro‑segmentation strategy for the corporate network using VMware NSX, cutting lateral‑movement risk by 78 %.  
+- Coordinated cross‑functional response drills with the SOC, IT, and legal teams, improving mean time to containment (MTTC) from 4 hours to 45 minutes.  
+
+**Cybersecurity Analyst – Cloud Security** – **MediCore Solutions**, Boston, MA (Remote)  
+*July 2018 – April 2022*  
+- Implemented Cloud‑Security‑Posture‑Management (CSPM) policies across AWS and Azure, achieving a 92 % compliance score with HIPAA and PCI‑DSS.  
+- Authored Terraform modules for automated security‑group provisioning, reducing manual configuration errors by 95 %.  
+- Performed regular red‑team exercises, delivering actionable remediation reports that lowered identified vulnerabilities by 61 % YoY.  
+
+**Information Security Intern** – **Northgate Bank**, Chicago, IL  
+*May 2017 – June 2018*  
+- Assisted in daily log review and alert triage, contributing to the resolution of 120+ security incidents.  
+- Created documentation for password‑policy enforcement, resulting in a 40 % decrease in weak‑password findings.  
+
+---  
+
+### Education  
+
+**Master of Science in Cybersecurity** – New York University, Tandon School of Engineering, NY  
+*Sept 2015 – May 2017* – GPA: 3.9/4.0  
+
+**Bachelor of Science in Computer Science** – University of Illinois at Urbana‑Champaign, IL  
+*Sept 2011 – May 2015* – Minor in Information Assurance  
+
+---  
+
+### Technical Skills  
+
+- **Security Platforms:** Splunk, Elastic SIEM, Azure Sentinel, CrowdStrike Falcon, Palo Alto Cortex XDR  
+- **Cloud & DevSecOps:** AWS, Azure, Terraform, CloudFormation, Docker, Kubernetes, HashiCorp Vault  
+- **Scripting & Automation:** Python (pandas, requests), PowerShell, Bash  
+- **Frameworks & Standards:** NIST 800‑53, ISO 27001, MITRE ATT&CK, OWASP Top 10  
+- **Network Security:** Firewalls, IDS/IPS, VPN, Zero‑Trust Architecture  
+- **Soft Skills:** Crisis communication, stakeholder education, policy development  
+
+---  
+
+### Certifications  
+
+- Certified Information Systems Security Professional (CISSP) – (ISC)² (2021)  
+- AWS Certified Security – Specialty (2020)  
+- GIAC Certified Incident Handler (GCIH) (2019)  
+
+---  
+
+### Selected Projects  
+
+- **Enterprise Threat‑Intelligence Platform:** Integrated open‑source threat feeds with internal telemetry, delivering real‑time alerts that reduced detection latency by 70 %.  
+- **Secure CI/CD Pipeline:** Embedded static code analysis and container scanning into Jenkins, preventing 18 high‑severity vulnerabilities from reaching production.  
+
+---  
+
+### Professional Memberships  
+
+- Member, Information Systems Security Association (ISSA)  
+- Member, Women in Cybersecurity (WiCyS)  
+
+---  
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Benjamin, your résumé reads like a corporate PowerPoint that got a little too excited at the buzzword buffet. You open with a generic “Strategic Product Manager … Passionate about leveraging user research, agile methodologies, and data‑driven decision‑making” – essentially a thesaurus dump that tells us nothing you don’t already say on LinkedIn. Your senior role at NimbusForge boasts a “38 % YoY revenue increase” and “feature adoption rates from 22 % to 57 %,” yet you never explain *how* you made that magic happen – no mention of the specific experiments, pricing tweaks, or go‑to‑market moves that actually moved the needle. The “Negotiated partnerships with three major cloud providers, securing a 15 % reduction in infrastructure costs” sounds impressive until you realize you didn’t say *which* providers or *what* terms you struck. The “References available upon request” line is a relic from the 90s that screams you haven’t upgraded your copy‑writing game in a decade. All in all, you’ve got the right numbers, but the narrative feels like a brag‑sheet that forgot to show the work behind the brag."",
+  ""professional_suggestions"": [
+    ""Replace the vague career objective with a concise 2‑sentence value proposition that highlights a unique achievement (e.g., “Delivered $X million revenue growth by integrating data‑driven product decisions at NimbusForge”)."",
+    ""Add a brief “Key Contributions” bullet under each role that explains the tactics behind your headline metrics (e.g., A/B test framework, pricing strategy, partnership terms) to give context to the impressive numbers."",
+    ""Remove the outdated “References available upon request” line, and instead include a link to your LinkedIn or portfolio, ensuring the overall layout stays clean and modern.""
+  ],
+  ""rating"": 8
+}","**Benjamin R. Castillo**  
+Phone: (415) 555‑7392 • Email: ben.castillo@email.com • Portfolio: bencastillo.io • Location: San Francisco, CA  
+
+---  
+
+### Career Objective  
+Strategic Product Manager with 6 + years of experience leading SaaS and mobile product initiatives from concept through launch. Passionate about leveraging user research, agile methodologies, and data‑driven decision‑making to deliver market‑leading solutions. Seeking to drive product growth at a forward‑thinking technology firm.  
+
+---  
+
+### Professional Experience  
+
+**Senior Product Manager – Platform Solutions** – **NimbusForge Technologies**, San Francisco, CA  
+*January 2021 – Present*  
+- Defined product vision and roadmap for a B2B analytics platform used by Fortune 500 clients, resulting in a 38 % YoY revenue increase.  
+- Coordinated cross‑functional squads of engineers, designers, and data scientists using Scrum; delivered 12 major releases on schedule.  
+- Conducted quantitative A/B testing and qualitative usability studies, improving feature adoption rates from 22 % to 57 % within three months.  
+- Negotiated partnerships with three major cloud providers, securing a 15 % reduction in infrastructure costs for the product line.  
+
+**Product Manager – Mobile Experience** – **CrestWave Mobile**, Seattle, WA  
+*June 2017 – December 2020*  
+- Launched a consumer‑facing wellness app that reached 500 k downloads in its first six months and maintained a 4.6‑star rating on Google Play.  
+- Implemented OKR framework across the product team, aligning quarterly goals with corporate strategy and improving on‑time delivery by 27 %.  
+- Introduced a data‑centric prioritization matrix (RICE) that reduced feature backlog turnover time by 31 %.  
+
+**Associate Product Analyst** – **Silverline Financial**, Portland, OR  
+*August 2015 – May 2017*  
+- Assisted in market segmentation analysis for a new loan‑origination platform, identifying three high‑value customer segments that contributed to a $4 M revenue uplift.  
+- Managed beta testing cycles and compiled NPS feedback, informing product enhancements that increased user satisfaction from 68 % to 81 %.  
+
+---  
+
+### Education  
+
+**Master of Business Administration (MBA), Concentration in Technology Management** – University of California, Berkeley, Haas School of Business  
+*Sept 2018 – May 2020* – GPA: 3.85/4.00  
+
+**Bachelor of Arts in Economics** – University of Washington, Seattle, WA  
+*Sept 2011 – June 2015* – Minor in Computer Science  
+
+---  
+
+### Core Competencies  
+
+- **Product Strategy & Roadmapping**  
+- **Agile & Scrum Leadership**  
+- **User Research & UX Design Collaboration**  
+- **Data Analytics & KPI Management** (SQL, Looker, Amplitude)  
+- **Go‑to‑Market Planning**  
+- **Stakeholder Communication & Alignment**  
+
+---  
+
+### Technical Proficiencies  
+
+- **Tools:** JIRA, Confluence, Productboard, Miro, Figma, Mixpanel, Google Analytics  
+- **Languages:** Basic SQL, Python (pandas for ad‑hoc analysis)  
+- **Cloud & Services:** AWS (CloudWatch, IAM), Firebase, Stripe API  
+
+---  
+
+### Certifications  
+
+- Certified Scrum Product Owner (CSPO) – Scrum Alliance (2021)  
+- Pragmatic Marketing Certified – Level III (2022)  
+
+---  
+
+### Selected Projects  
+
+**“InsightStream” Platform Revamp**  
+- Led a cross‑regional effort to redesign the reporting UI, reducing client‑reported friction points by 44 % and boosting daily active users by 19 %.  
+
+**AI‑Powered Personalization Engine**  
+- Partnered with data science team to integrate a recommendation micro‑service, increasing average order value by 12 % across the ecosystem.  
+
+---  
+
+### Professional Involvement  
+
+- Speaker at **ProductCon 2023** – Presented “Scaling Data‑Driven Product Decisions in Rapid Growth Environments.”  
+- Mentor, **Women in Product** – Conducting monthly workshops on career development for emerging product professionals.  
+
+---  
+
+**References available upon request.**",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Michael, your résumé reads like a hype‑machine for every cloud‑security buzzword invented since 2015. The Professional Summary starts with the tired \""Seasoned Cloud Security Engineer with 6 years of experience\"" line, then spends the next paragraph rattling off zero‑trust, automated compliance, and threat‑modeling like you’re reciting a LinkedIn tagline. Your bullet points are a parade of percentages – \""decreasing lateral‑movement risk by 87 %\"" and \""blocking 94 % of mis‑configurations\"" – without ever saying *why* the company cared or *what* money or reputation was saved. The LinkedIn URL is missing the https:// prefix, assuming recruiters can read your mind, and you close with the fossilized \""References: Available upon request\"" line that belongs on a 1990s fax cover sheet. In short, you’ve built an impressive wall of metrics, but it feels more like a brag‑sheet than a coherent story of real business impact."",
+  ""professional_suggestions"": [
+    ""Rewrite the Professional Summary into a punchy 2‑sentence value proposition that highlights a single, high‑impact achievement (e.g., the zero‑trust redesign that cut incident response time) and the specific role you’re targeting, trimming generic buzzwords."",
+    ""For each bullet, add a brief context sentence that explains the business problem you solved, the action you took, and the measurable result, turning raw percentages into a narrative that hiring managers can quickly grasp."",
+    ""Remove the outdated \""References: Available upon request\"" line, and replace it with a concise line that includes a full https:// LinkedIn URL and a link to a portfolio or case‑study site that showcases your security‑as‑code projects.""
+  ],
+  ""rating"": 8
+}","**Michael J. Rivera**  
+Phone: (617) 942‑3810 | Email: michael.rivera@securecloud.io | LinkedIn: linkedin.com/in/mjrivera | Location: Boston, MA  
+
+---  
+
+### Professional Summary  
+Seasoned Cloud Security Engineer with 6 years of experience securing multi‑cloud environments for fintech and SaaS companies. Expert in designing zero‑trust architectures, implementing automated compliance controls, and conducting threat‑modeling workshops. Proven ability to reduce security incidents by establishing robust monitoring and response pipelines while partnering closely with development and operations teams.  
+
+---  
+
+### Work Experience  
+
+**Cloud Security Engineer – Platform Trust** – **FinGuard Technologies**, Boston, MA  
+*April 2022 – Present*  
+- Designed and deployed a zero‑trust network architecture across AWS, Azure, and GCP, decreasing lateral‑movement risk by 87 %.  
+- Implemented Infrastructure‑as‑Code security policies with Terraform Sentinel and AWS Config Rules, achieving continuous compliance with PCI‑DSS and SOC 2.  
+- Built a security‑as‑code CI/CD stage using Checkov and Open Policy Agent, automatically blocking 94 % of mis‑configurations before production.  
+- Conducted quarterly red‑team simulations, identifying and remediating 12 critical vulnerabilities within 48 hours each cycle.  
+- Authored a company‑wide incident‑response playbook that reduced mean time to detect (MTTD) from 5 hours to 30 minutes.  
+
+**Security Analyst – Cloud Operations** – **NovaSphere Solutions**, Remote  
+*January 2019 – March 2022*  
+- Managed Cloud Security Posture Management (CSPM) tools (Prisma Cloud, Dome9) for a portfolio of 45 workloads, cutting exposure scores by 62 %.  
+- Developed automated alerting in Splunk and Azure Sentinel for anomalous IAM activity, resulting in a 71 % drop in privileged‑access abuse incidents.  
+- Delivered security awareness training to 200+ engineers, improving phishing‑simulation click‑through rates from 23 % to 5 %.  
+
+**Information Security Intern** – **Harvard Medical School IT**, Boston, MA  
+*June 2018 – August 2018*  
+- Assisted in vulnerability scanning of research data pipelines, discovering 18 high‑severity findings and coordinating patch remediation.  
+
+---  
+
+### Education  
+
+**Master of Science in Cybersecurity** – Northeastern University, Boston, MA  
+*Sept 2016 – May 2018* – GPA: 3.9/4.0  
+
+**Bachelor of Science in Computer Science** – University of Massachusetts Amherst, MA  
+*Sept 2012 – May 2016* – GPA: 3.85/4.0  
+
+---  
+
+### Technical Skills  
+
+- **Languages / Scripting:** Python, Bash, PowerShell, Go  
+- **Cloud Platforms:** AWS, Azure, Google Cloud Platform  
+- **Security Tools:** Prisma Cloud, Checkov, Open Policy Agent, HashiCorp Sentinel, Splunk, Azure Sentinel, Falco, Sysdig  
+- **Infrastructure as Code:** Terraform, CloudFormation, Azure Resource Manager  
+- **Identity & Access Management:** Okta, Azure AD, AWS IAM, Zero‑Trust Network Access (ZTNA)  
+- **Compliance & Auditing:** PCI‑DSS, SOC 2, ISO 27001, NIST 800‑53  
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI  
+- **Container Security:** Docker Bench, Kubernetes Pod Security Policies, Aqua Security  
+
+---  
+
+### Certifications  
+
+- Certified Cloud Security Professional (CCSP) – (ISC)², 2023  
+- AWS Certified Security – Specialty, 2022  
+- Certified Information Systems Security Professional (CISSP), 2021  
+
+---  
+
+### Selected Projects  
+
+**“Adaptive Threat‑Hunting Framework”** – Created a Python‑based detection engine that correlates CloudTrail, VPC Flow Logs, and Azure Activity Logs to surface insider threats; reduced false‑positive rate to <2 %.  
+
+**Open‑Source Contribution – “tfsec‑enhanced‑rules”** – Added 35 new security rule checks for Terraform modules; repository now >10 k stars.  
+
+---  
+
+### Professional Involvement  
+
+- Speaker, **RSA Conference 2024** – “Scaling Zero‑Trust in Multi‑Cloud Environments.”  
+- Volunteer, **Women in Cybersecurity (WiCyS)** – Mentor for undergraduate security bootcamps.  
+
+---  
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Diego, your résumé reads like a buzzword bingo card that someone threw together after binge‑watching every UX conference livestream. The opening line – “User‑Experience Designer with 8 years of experience… Proven ability to translate business goals into elegant, data‑driven interfaces” – is so generic it could belong to anyone who ever opened a design tool. You brag about “increasing monthly active users by 38 % and reducing churn from 7 % to 3 %” without ever telling us what the base numbers were or what revenue that actually saved. The vague “Partnered with data scientists to build an A/B testing framework” sounds impressive until you realize you didn’t explain *what* you tested or *how* it moved the needle. Your skill list is a wall of tools (Figma, Sketch, Adobe XD, InVision, Axure RP, Zeplin…) that makes a recruiter wonder if you’re trying to sound like a Swiss‑army knife instead of a specialist. And, of course, you cling to the dinosaur‑era footer “References available upon request,” as if that still means anything in 2025. Bottom line: you’ve got numbers, but the story is buried under jargon and outdated formatting."",
+  ""professional_suggestions"": [
+    ""Rewrite the Professional Summary into a crisp two‑sentence value proposition that ties a single, high‑impact achievement (e.g., the 38 % user growth) to the specific role you’re targeting, cutting out generic buzzwords."",
+    ""For each metric, add the business context (baseline, revenue impact, or cost savings) and briefly describe the process you used, turning raw percentages into a clear narrative that hiring managers can quickly grasp."",
+    ""Trim the outdated \""References available upon request\"" line, replace it with a concise line that includes a full https:// portfolio URL and a link to a case‑study or design showcase, and prioritize the most relevant design tools (e.g., Figma, Principle) to avoid tool‑list overload.""
+  ],
+  ""rating"": 7
+}","**Diego R. Alvarez**  
+Phone: (415) 555‑3492 | Email: diego.alvarez@email.com | Portfolio: diegoalvarez.design | Location: San Francisco, CA  
+
+---  
+
+### Professional Summary  
+User‑Experience Designer with 8 years of experience crafting intuitive digital products for fintech, health‑tech, and e‑commerce platforms. Expert in user‑centered design processes, rapid prototyping, and accessibility compliance. Proven ability to translate business goals into elegant, data‑driven interfaces that boost conversion and satisfaction metrics.
+
+---  
+
+### Work Experience  
+
+**Lead UX Designer** – **FinFlow Solutions**, San Francisco, CA  
+*January 2021 – Present*  
+- Directed redesign of the core budgeting app, increasing monthly active users by 38 % and reducing churn from 7 % to 3 % within six months.  
+- Established a design system (component library, style guide, token management) shared across three product teams, cutting UI development time by 45 %.  
+- Conducted moderated remote usability studies and synthesized findings into actionable design recommendations, leading to a 22 % lift in task completion rates.  
+- Partnered with data scientists to build an A/B testing framework for micro‑interactions, leveraging Mixpanel and Amplitude analytics.
+
+**Senior Interaction Designer** – **HealthPulse Inc.**, Remote (US)  
+*May 2016 – Dec 2020*  
+- Designed patient‑portal dashboards that improved information‑retrieval speed by 31 % for clinical staff.  
+- Implemented WCAG 2.1 AA compliance across all mobile interfaces, achieving a 98 % accessibility audit score.  
+- Produced high‑fidelity prototypes in Figma and animated flow demos in Principle to communicate concepts to stakeholders and development teams.  
+
+**UX Designer** – **ShopNest Marketplace**, Los Angeles, CA  
+*July 2013 – Apr 2016*  
+- Redesigned checkout flow, resulting in a 19 % reduction in cart abandonment.  
+- Conducted heuristic evaluations and competitive analyses to identify usability gaps in the product catalog.  
+- Collaborated with front‑end engineers to translate designs into responsive React components, ensuring pixel‑perfect implementation.
+
+---  
+
+### Education  
+
+**Master of Fine Arts in Interaction Design** – California College of the Arts, San Francisco, CA  
+*Sep 2011 – Jun 2013*  
+
+**Bachelor of Arts in Graphic Design** – University of California, Santa Barbara, CA  
+*Sep 2007 – Jun 2011*  
+
+---  
+
+### Technical Skills  
+
+- **Design Tools:** Figma, Sketch, Adobe XD, InVision, Axure RP, Zeplin  
+- **Prototyping/Animation:** Principle, Framer Motion, Lottie  
+- **Research Methods:** Contextual inquiry, card sorting, eye‑tracking, surveys, analytics (Google Analytics, Hotjar)  
+- **Front‑End Basics:** HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6), React basics for design hand‑off  
+- **Collaboration:** Confluence, Jira, Miro, Slack, Notion  
+
+---  
+
+### Certifications  
+
+- Certified Usability Analyst (CUA) – Human Factors International, 2019  
+- Google UX Design Professional Certificate, 2022  
+
+---  
+
+### Selected Projects  
+
+**“Smart Savings Dashboard”** – Designed a data‑visualization interface for a fintech app that presented personalized saving insights; post‑launch metrics showed a 27 % increase in feature adoption.  
+
+**Open‑Source Project – “a11y‑components”** – Created a library of accessible React UI components (buttons, menus, dialogs) with storybook documentation; now integrated by over 30 open‑source projects.  
+
+---  
+
+### Professional Involvement  
+
+- Speaker, **UX Week 2023** – “Designing for Financial Trust: Balancing Security and Simplicity.”  
+- Volunteer, **Design for Good** – Pro bono redesign of nonprofit donation platform, improving donation conversion by 15 %.  
+
+---  
+
+**References available upon request.**",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Lena, your résumé reads like a designer’s brag‑sheet that was copy‑pasted from a LinkedIn “achievements” generator. You start with a generic “Creative UX/UI Designer … shaping intuitive digital experiences” line that could belong to anyone with a portfolio, then you pepper the document with buzzwords like “component‑driven design system” and “Heuristic Evaluation score > 8.0” without ever explaining why those numbers matter. The portfolio URL “lena‑patel.io” is missing the https:// prefix, as if you expect recruiters to guess the protocol. Your “References: Available upon request” line is the digital equivalent of a handshake that never happened, and you list a perfect 4.0 GPA from MIT but forget to mention any real‑world impact beyond percentages. All those impressive percentages (94 % task success, 22‑point NPS jump, 35 % dev‑time cut) are presented without any context about the problem you solved or the baseline, making them feel like glitter rather than evidence."",
+  ""professional_suggestions"": [
+    ""Replace the vague Professional Summary with a concise 2‑sentence value proposition that highlights a signature achievement (e.g., the FinPulse Dashboard revamp that cut time‑to‑insight from 4 min to 45 sec) and the specific role you’re targeting."",
+    ""Update the portfolio link to a full https:// URL and add a short line describing what recruiters will find (case studies, design system documentation, prototype videos). Remove the “References: Available upon request” line and instead include a LinkedIn URL or note that references are provided on request."",
+    ""For each metric, add a brief context (the baseline, the challenge, and the business impact) and sprinkle in a soft‑skill or leadership example (e.g., how you coached junior designers or facilitated cross‑functional workshops) to balance the heavy focus on numbers.""
+  ],
+  ""rating"": 8
+}","**Lena K. Patel**  
+Phone: (617) 555‑4832 | Email: lena.patel@designhub.com | Portfolio: lena‑patel.io | Location: Boston, MA  
+
+---  
+
+### Professional Summary  
+Creative UX/UI Designer with 6 years of experience shaping intuitive digital experiences for SaaS, fintech, and e‑commerce platforms. Expert in user‑centered research, interaction design, and rapid prototyping, delivering products that increase conversion rates and customer satisfaction. Skilled collaborator fluent in Agile environments and cross‑functional teams.  
+
+---  
+
+### Work Experience  
+
+**Senior UX Designer – Digital Products** – **FinTechForge**, Boston, MA  
+*April 2021 – Present*  
+- Led end‑to‑end redesign of a corporate banking dashboard, boosting user task success from 71 % to 94 % and increasing NPS by 22 points.  
+- Conducted 15+ remote usability studies and synthesized findings into actionable design recommendations, shortening feature iteration cycles by 28 %.  
+- Created a component‑driven design system in Figma that reduced UI development time by 35 % across three product lines.  
+- Mentored a team of 4 junior designers, establishing a weekly critique session that improved design quality metrics (Heuristic Evaluation score > 8.0).  
+
+**UX/UI Designer – E‑Commerce Solutions** – **BrightCart Studios**, Remote  
+*January 2018 – March 2021*  
+- Designed mobile‑first checkout flows for a multi‑vendor marketplace, resulting in a 17 % increase in completed transactions.  
+- Implemented A/B testing framework using Optimizely; identified micro‑copy changes that raised add‑to‑cart rates by 9 %.  
+- Collaborated with front‑end engineers to translate high‑fidelity prototypes into responsive React components, maintaining visual fidelity within a 2 % variance.  
+
+**Interaction Designer – Startup Accelerator** – **LaunchLab**, Cambridge, MA  
+*June 2016 – December 2017*  
+- Produced wireframes and interactive prototypes for 12 seed‑stage MVPs, helping founders secure $8 M total seed funding.  
+- Established a usability lab with remote testing capabilities, cutting user research costs by 40 %.  
+
+---  
+
+### Education  
+
+**Master of Fine Arts in Interaction Design** – *Massachusetts Institute of Technology, Cambridge, MA*  
+*2014 – 2016* – GPA: 4.0/4.0  
+
+**Bachelor of Arts in Graphic Design** – *University of California, Los Angeles, CA*  
+*2010 – 2014* – Minor in Psychology  
+
+---  
+
+### Technical Skills  
+
+- **Design Tools:** Figma, Sketch, Adobe XD, InVision, Axure RP, Adobe Creative Suite  
+- **Research & Testing:** User Interviews, Card Sorting, Usability Testing, eye‑tracking, Google Optimize, Hotjar  
+- **Prototyping:** HTML/CSS, React (basic), Framer Motion, Principle  
+- **Methodologies:** Design Thinking, Lean UX, Agile Scrum, Double Diamond  
+- **Analytics:** Mixpanel, Amplitude, Google Analytics  
+
+---  
+
+### Certifications  
+
+- NN/g Certified UX Specialist (2022)  
+- Certified Usability Analyst (CUA) – Human Factors International (2020)  
+
+---  
+
+### Selected Projects  
+
+**“FinPulse Dashboard Revamp”** – Delivered a modular, role‑based dashboard for wealth‑management clients, decreasing average time‑to‑insight from 4 minutes to 45 seconds.  
+
+**Open‑Source Contribution – “ui‑components”** – Co‑maintainer of a Figma community library (12 k+ downloads) providing accessible UI components for SaaS applications.  
+
+---  
+
+### Professional Involvement  
+
+- Speaker, **UXPA Boston Chapter 2023** – “Designing for Financial Accessibility.”  
+- Volunteer, **Boston Women in Tech** – Conducted quarterly workshops on portfolio building for aspiring designers.  
+
+---  
+
+**References:** Available upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Wow, Jane, your resume reads like a brag sheet for a superhero who somehow never slipped on a typo—until we hit the ancient 'References available upon request.' line, which belongs in a 1990s job‑hunt handbook. Also, that junior stint at PixelForge reads like a polite way of saying, \""I made WordPress look pretty for grandma's bakery,\"" with no real numbers to prove you actually did anything beyond polishing plugins."",
+  ""professional_suggestions"": [
+    ""Add concrete metrics to your earliest role (e.g., traffic increase, SEO ranking improvements) to demonstrate impact beyond vague statements."",
+    ""Include a link to a live portfolio or GitHub repository so recruiters can see the code behind your impressive project list."",
+    ""Trim outdated phrases like \""References available upon request\"" and replace them with a succinct skills‑summary that highlights soft skills such as leadership and communication.""
+  ],
+  ""rating"": 8
+}","**Jane M. Doe**  
+Phone: (555) 867‑5309 | Email: jane.doe@email.com | LinkedIn: linkedin.com/in/janedoe  
+Location: Austin, TX  
+
+---
+
+### Professional Summary
+Detail‑oriented Full‑Stack Software Engineer with 5+ years of experience designing, developing, and deploying scalable web applications. Proficient in JavaScript, Python, and cloud services (AWS, Azure). Known for delivering high‑quality code, optimizing performance, and mentoring junior developers.
+
+---
+
+### Work Experience
+
+**Senior Software Engineer** – **TechNova Solutions**, Austin, TX  
+*June 2021 – Present*  
+- Led a cross‑functional team of 6 to redesign the company’s flagship SaaS platform, improving load times by 38% and increasing user retention by 22%.  
+- Implemented CI/CD pipelines using GitHub Actions and Docker, reducing deployment time from 45 minutes to under 5 minutes.  
+- Designed and maintained RESTful APIs with Node.js and Express; integrated third‑party services (Stripe, Twilio) for payments and notifications.  
+- Conducted code reviews and instituted best‑practice guidelines, raising overall code coverage from 64% to 91% with Jest.
+
+**Software Engineer** – **ByteWave Labs**, Dallas, TX  
+*July 2018 – May 2021*  
+- Developed responsive front‑end interfaces using React, Redux, and TypeScript, supporting over 200,000 monthly active users.  
+- Built serverless data‑processing functions on AWS Lambda (Python) to handle real‑time analytics, cutting processing costs by 27%.  
+- Collaborated with product managers to translate user stories into technical specifications and deliver sprint goals on schedule.
+
+**Junior Web Developer** – **PixelForge Studios**, Austin, TX  
+*Jan 2016 – Jun 2018*  
+- Maintained WordPress sites for small‑business clients; customized themes and plugins using PHP and JavaScript.  
+- Optimized SEO and page‑speed, achieving average PageSpeed Insights scores of 92+.  
+
+---
+
+### Education
+
+**Bachelor of Science in Computer Science** – University of Texas at Austin  
+*Sep 2012 – May 2016*  
+- GPA: 3.78/4.00  
+- Honors: Dean’s List (4 semesters)  
+
+---
+
+### Technical Skills
+- **Languages:** JavaScript (ES6+), Python, TypeScript, Java, SQL, Bash  
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot, Redux  
+- **Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB  
+- **Cloud / DevOps:** AWS (EC2, S3, Lambda, CloudFormation), Azure, Docker, Kubernetes, GitHub Actions, Terraform  
+- **Tools:** Git, VS Code, Jira, Confluence, Postman, Figma  
+
+---
+
+### Certifications
+- AWS Certified Solutions Architect – Associate (2022)  
+- Certified ScrumMaster (CSM) – Scrum Alliance (2020)  
+
+---
+
+### Projects (selected)
+
+**Open‑Source Contribution – “React‑Vis‑Charts”**  
+- Authored 12 pull requests adding new chart types and improving documentation; project now has >5k stars.
+
+**Personal Finance Tracker (Full‑Stack)**  
+- Built a MERN stack application for budgeting; deployed on Heroku with JWT authentication and data visualization via D3.js.
+
+---
+
+### Professional Affiliations
+- Member, Association for Computing Machinery (ACM)  
+- Volunteer Mentor, Girls Who Code – Austin Chapter  
+
+---
+
+**References available upon request.**",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Oh great, “Passionate full‑stack software engineer with 4 years of experience” – because the hiring manager can’t possibly tell the difference between passion and a generic LinkedIn buzz‑phrase. Your objective reads like a copy‑pasted tagline from a career‑coach brochure, and you still cling to the dinosaur‑era line “References provided upon request” like it’s a badge of professionalism. Also, that portfolio link (liamortiz.dev) looks like a placeholder you threw in to fill space, and the “cum laude” brag is hidden in a bullet point that most recruiters will skim over. Bottom line: you’ve packed a wall of technical jargon without a single hint of what makes you *actually* stand out beyond the buzz‑words."",
+  ""professional_suggestions"": [
+    ""Replace the generic objective with a concise, role‑specific summary that highlights your unique impact and the value you’ll bring to the target company."",
+    ""Add concrete leadership or mentorship examples (e.g., leading a team, driving cross‑functional projects) and quantify outcomes more consistently across all roles."",
+    ""Remove outdated lines like “References provided upon request” and ensure your portfolio link is prominently displayed with a brief description of its contents.""
+  ],
+  ""rating"": 8
+}","**Liam J. Ortiz**  
+789 Redwood Lane • Austin, TX 78704  
+Phone: (512) 555‑3178 • Email: liam.ortiz@email.com • Portfolio: liamortiz.dev  
+
+---
+
+### Objective  
+Passionate full‑stack software engineer with 4 years of experience building scalable web applications and microservices. Seeking to leverage expertise in JavaScript, Python, and cloud infrastructure to contribute to innovative products at a forward‑thinking tech company.
+
+---
+
+### Technical Experience  
+
+**Full‑Stack Engineer** – *BlueWave Technologies, Austin, TX*  
+*March 2021 – Present*  
+- Developed a real‑time analytics dashboard using React, Redux, and D3.js, serving 15,000+ concurrent users with sub‑second latency.  
+- Designed and implemented RESTful APIs in Node.js (Express) and Python (FastAPI) that handle >2 M requests per day.  
+- Migrated monolithic architecture to Kubernetes on AWS EKS, reducing deployment time by 70% and cutting infrastructure costs by 22%.  
+- Integrated CI/CD pipelines with GitHub Actions, achieving automated testing coverage of 92%.
+
+**Software Engineer** – *GreenLeaf IoT, Dallas, TX*  
+*July 2019 – February 2021*  
+- Built firmware update service for edge devices using C++ and MQTT, improving OTA success rate to 98.5%.  
+- Created serverless functions (AWS Lambda) for data ingestion, processing >500 GB of sensor data daily.  
+- Collaborated with UI/UX designers to revamp the customer portal, increasing user satisfaction score from 3.4 to 4.6/5.
+
+**Web Development Intern** – *PixelForge Studios, Austin, TX*  
+*May 2018 – June 2019*  
+- Developed responsive landing pages with HTML5, CSS3, and vanilla JavaScript; reduced bounce rate by 15%.  
+- Assisted in migrating legacy PHP sites to a modern MERN stack, enhancing maintainability.
+
+---
+
+### Education  
+
+**Bachelor of Science in Computer Science** – *University of Texas at Austin*  
+*2015 – 2019*  
+- Graduated **cum laude** (GPA: 3.78)  
+- Relevant Coursework: Algorithms, Distributed Systems, Database Systems, Human‑Computer Interaction  
+
+---
+
+### Core Competencies  
+
+- **Languages:** JavaScript/TypeScript, Python, Java, C++, SQL, Go  
+- **Frameworks/Libraries:** React, Node.js, Express, FastAPI, Django, Spring Boot  
+- **Databases:** PostgreSQL, MongoDB, Redis, DynamoDB  
+- **DevOps/Cloud:** AWS (EC2, S3, RDS, Lambda, EKS), Docker, Terraform, Jenkins  
+- **Testing:** Jest, Mocha, PyTest, Selenium  
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Jira, Confluence  
+
+---
+
+### Projects  
+
+- **OpenSourceChat** – Real‑time chat application (React + Socket.io) with end‑to‑end encryption; 2.5 k stars on GitHub.  
+- **EcoTrack** – Personal carbon‑footprint tracker built with Flutter and Firebase; featured in *TechCrunch* (2023).  
+
+---
+
+### Certifications  
+
+- AWS Certified Solutions Architect – Associate (2022)  
+- Certified Kubernetes Application Developer (CKAD) – The Linux Foundation (2023)  
+- Oracle Certified Professional, Java SE 11 Developer (2021)  
+
+---
+
+### Professional Activities  
+
+- Speaker at **Austin Code Meetup** – Presented “Serverless Architecture for Real‑Time Data Pipelines” (2023).  
+- Volunteer mentor for **Girls Who Code**, teaching Python fundamentals to high‑school students.  
+
+---
+
+### References  
+
+Provided upon request.",
+Process the context according to the task description.,"{
+  ""roast_critique"": ""Nadia, your resume shouts \""Strategic Marketing Analyst\"" like a corporate buzzword bingo card, yet the only strategy I see is sprinkling percentages everywhere – a 27% lift here, a 32% traffic bump there, $3.2 M ARR in the first six months. You love to quote numbers without context, like the \""+ 45%\"" engagement metric that sounds impressive until we realize you never say what baseline you beat. Your LinkedIn and portfolio links are missing the \""https://\"" prefix, as if recruiters are supposed to guess your URL, and the timeless \""References: Provided upon request\"" line belongs in a 1990s job‑hunt handbook. The career objective reads like a copy‑pasted LinkedIn summary, offering no unique value proposition, and your soft‑skill narrative is as thin as the Excel sheets you cleaned as an intern. In short, you’ve got the data, but the storytelling and formatting are stuck in the past."",
+  ""professional_suggestions"": [
+    ""Rewrite the career objective into a concise, 2‑sentence value proposition that highlights a standout achievement (e.g., the $850 K LTV‑driven revenue) and the specific senior role you’re targeting, removing generic buzzwords."",
+    ""Update all online links to full URLs (https://linkedin.com/in/nadiarahman, https://nadiarahman.design) and drop the archaic \""References: Provided upon request\"" line; instead, add a brief note directing readers to your LinkedIn or portfolio for references."",
+    ""Add brief context to each metric (e.g., baseline numbers, business impact) and include a dedicated soft‑skill/leadership bullet (e.g., stakeholder management, mentoring) to demonstrate you’re not just a number‑cruncher but also a collaborative leader.""
+  ],
+  ""rating"": 8
+}","**Nadia S. Rahman**  
+Phone: (312) 555‑0197 | Email: nadia.rahman@email.com | LinkedIn: linkedin.com/in/nadiarahman | Portfolio: nadiarahman.design  
+Location: Chicago, IL  
+
+---  
+
+### Career Objective  
+Strategic Marketing Analyst with 4 years of experience leveraging data analytics, SEO, and content strategy to drive brand growth for B2B SaaS and e‑commerce companies. Seeking a senior analytics role where insights can shape multi‑channel campaigns and improve customer acquisition ROI.  
+
+---  
+
+### Professional Experience  
+
+**Marketing Analyst – Growth & Insights** – *PulseShift Marketing, Chicago, IL*  
+*January 2021 – Present*  
+- Conducted cohort analysis on email acquisition funnels, identifying a segment that delivered a 27 % lift in conversion after targeted A/B testing.  
+- Built a Tableau dashboard suite tracking CAC, LTV, and churn across 5 product lines, enabling executives to reallocate budget with a 15 % efficiency gain.  
+- Implemented SEO audit processes using Screaming Frog and Ahrefs, resulting in a 32 % increase in organic traffic YoY.  
+- Collaborated with product and sales teams to develop go‑to‑market positioning for two new SaaS modules, contributing to $3.2 M ARR in the first six months.  
+
+**Digital Marketing Coordinator** – *EcoSphere Retail, Remote*  
+*June 2018 – December 2020*  
+- Managed paid media campaigns across Google Ads and LinkedIn, optimizing bid strategies that reduced CPL by 21 % while maintaining lead quality.  
+- Produced weekly content calendars and oversaw creation of blog posts, videos, and infographics, boosting engagement metrics (average time on page + 45 %).  
+- Utilized Google Analytics and Mixpanel to track user journeys, uncovering drop‑off points that informed UI improvements and increased checkout completion by 9 %.  
+
+**Marketing Intern** – *BrightLeaf Studios, Chicago, IL*  
+*May 2017 – May 2018*  
+- Assisted in market research surveys, compiling competitor benchmarks that shaped the company’s rebranding effort.  
+- Performed basic data cleaning in Excel and prepared monthly performance reports for senior leadership.  
+
+---  
+
+### Education  
+
+**Master of Science in Marketing Analytics** – *Northwestern University – Kellogg School of Management*  
+*Sept 2015 – June 2017* – GPA: 3.9/4.0  
+
+**Bachelor of Business Administration in Marketing** – *University of Illinois at Chicago*  
+*Sept 2011 – May 2015* – Minor in Data Science  
+
+---  
+
+### Technical Skills  
+
+- **Analytics & BI:** Tableau, Power BI, Google Data Studio, SQL, Python (pandas, matplotlib)  
+- **SEO/SEM:** Ahrefs, SEMrush, Google Search Console, Google Ads, Bing Ads  
+- **Marketing Automation:** HubSpot, Marketo, Mailchimp, Zapier  
+- **Web Analytics:** Google Analytics 4, Mixpanel, Hotjar, Crazy Egg  
+- **Statistical Methods:** Regression analysis, propensity modeling, cohort & funnel analysis  
+- **Project Management:** Asana, Trello, Slack, Confluence  
+
+---  
+
+### Certifications  
+
+- Google Analytics Individual Qualification (GAIQ) – 2022  
+- HubSpot Content Marketing Certification – 2021  
+- Certified Digital Marketing Professional (CDMP) – Digital Marketing Institute – 2020  
+
+---  
+
+### Selected Projects  
+
+- **Customer Lifetime Value Model:** Developed a predictive LTV model using Python’s scikit‑learn, enabling targeted upsell campaigns that generated $850 K additional revenue.  
+- **International SEO Expansion:** Executed multilingual SEO strategy for three new European markets, increasing organic leads by 48 % within six months.  
+
+---  
+
+### Professional Affiliations  
+
+- Member, American Marketing Association (AMA) – Chicago Chapter  
+- Volunteer Data Analyst, *DataKind* – Chicago Chapter (non‑profit analytics projects)  
+
+---  
+
+**References:** Provided upon request.",
