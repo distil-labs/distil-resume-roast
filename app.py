@@ -1,15 +1,13 @@
 import os
 import json
 import torch
-import fitz  # PyMuPDF
+import fitz 
 from flask import Flask, request, jsonify, render_template
 from transformers import pipeline
 from huggingface_hub import login
 
 # --- 1. SETUP & CONFIGURATION ---
 
-# --- ROBUST SETUP ---
-# Try to load .env (for local), but skip if missing (for cloud)
 try:
     from dotenv import load_dotenv
     load_dotenv()
@@ -27,7 +25,7 @@ if HF_TOKEN:
 # --- 2. LOAD MODEL (CPU/GPU SAFE MODE) ---
 print("Loading Model... (This runs once at startup)")
 
-# Detect Hardware
+
 device_map = "auto"
 model_kwargs = {}
 
@@ -36,8 +34,6 @@ if torch.cuda.is_available():
     model_kwargs = {"load_in_4bit": True}
 else:
     print("⚠️ No GPU Detected: Loading in standard mode (slower but stable).")
-    # On CPU, we don't use 4-bit because bitsandbytes is GPU-only usually.
-    # The 16GB RAM in Free Tier is enough for the 6GB model.
     model_kwargs = {} 
 
 try:
@@ -119,7 +115,6 @@ def roast():
         prompt = generate_roast_prompt(resume_text)
 
         # 3. Generate Response
-        # On CPU, this might take 30-60 seconds.
         outputs = roaster(
             prompt,
             max_new_tokens=500,
@@ -141,7 +136,6 @@ def roast():
 
     except Exception as e:
         print(f"Processing Error: {e}")
-        # Return the raw output for debugging if JSON parsing fails
         return jsonify({"error": "Failed to generate valid JSON.", "details": str(e)}), 500
 
 if __name__ == '__main__':
