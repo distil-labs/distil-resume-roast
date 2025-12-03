@@ -99,7 +99,7 @@ The fine-tuned **3B student model** achieves perfect format compliance and captu
 
 - **Student:** Llama-3.2-3B-Instruct  
 - **Teacher:** openai.gpt-oss-120b 
-- **Dataset:** 6,356 synthetic examples
+- **Dataset:** 10,000 synthetic examples
 
 ## ❓ FAQ
 
