@@ -41,7 +41,7 @@ def roast_resume(pdf_path):
         
         try:
             response = ollama.generate(
-                model='roaster',  # Must match the name you used in 'ollama create'
+                model='roast_master', 
                 prompt=resume_text,
                 format='json',    # Force valid JSON
                 stream=False
