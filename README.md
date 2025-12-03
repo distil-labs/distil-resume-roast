@@ -89,7 +89,7 @@ The fine-tuned **3B student model** achieves perfect format compliance and captu
 |--------------------|-------------------|-------------------------------|---------------------------|
 | **ROUGE-L**        | 0.21              | 0.16                          | **0.23 ⬆** |
 | **METEOR**         | 0.32              | 0.27                          | **0.35 ⬆** |
-| **LLM-as-a-Judge** | **1.00**          | 0.13                          | **1.00 ⬆** |
+| **LLM-as-a-Judge** | **1.00**          | 1.00                        | **1.00 ⬆** |
 
 > **Note:**  
 > A **1.00 LLM-as-a-Judge** score indicates the model perfectly follows the complex JSON schema and Roast persona instructions.
