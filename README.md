@@ -36,15 +36,6 @@ cd distil-model
 # Create the Ollama model from the Modelfile
 ollama create roast_master -f Modelfile
 ```
-> **Note:**  
-> If the command above fails with **"Modelfile not found"**, create a file named **`Modelfile`** inside the `distil-model` folder with the following content:
-
-```dockerfile
-FROM ./unsloth.Q4_K_M.gguf
-PARAMETER stop "<|start_header_id|>"
-PARAMETER stop "<|end_header_id|>"
-PARAMETER stop "<|eot_id|>"
-```
 
 ### **3. Usage**
 
