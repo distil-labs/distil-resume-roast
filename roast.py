@@ -1,31 +1,15 @@
 import sys
 import json
 import fitz  
-import ollama
 from rich.console import Console
 from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, TextColumn
 
+# --- IMPORT YOUR NEW CLIENT ---
+from model_client import DistilLabsLLM
+
 console = Console()
-
-def generate_roast_prompt(resume_text):
-    return f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-## Task
-Generate a brutally honest 'roast' critique of the provided resume.
-The output MUST be a pure, stringified JSON object with exactly these fields:
-- "roast_critique": Sarcastic, funny, mean paragraph.
-- "professional_suggestions": List of 3 actionable tips.
-- "rating": Integer 1-10.
-
-<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-Process the context according to the task description.
-
-Context:
-{resume_text}
-
-<|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
+MODEL_NAME = "roast_master" 
 
 def extract_text_from_pdf(pdf_path):
     """Reads the PDF and extracts raw text."""
@@ -49,7 +33,14 @@ def roast_resume(pdf_path):
         console.print("[bold yellow]⚠️ Warning:[/bold yellow] This PDF looks empty or is a scanned image.")
         return
 
- 
+    # --- 3. INITIALIZE CLIENT (The Standard Way) ---
+    try:
+        client = DistilLabsLLM(model_name=MODEL_NAME)
+    except Exception as e:
+        console.print(f"[bold red]❌ Client Init Failed:[/bold red] {e}")
+        sys.exit(1)
+
+    # 4. Invoke Model
     with Progress(
         SpinnerColumn("dots", style="red"),
         TextColumn("[bold red]Roasting this poor soul...[/bold red]"),
@@ -57,30 +48,25 @@ def roast_resume(pdf_path):
     ) as progress:
         progress.add_task("roasting", total=None)
         
-  
-        final_prompt = generate_roast_prompt(resume_text)
-
         try:
-            response = ollama.generate(
-                model='roast_master', 
-                prompt=final_prompt,  
-                format='json',    
-                stream=False,
-                options={
-                    'num_ctx': 8192,   
-                    'temperature': 0.8
-                }
-            )
+            # Clean one-line call
+            raw_response = client.invoke(resume_text)
         except Exception as e:
-            console.print(f"[bold red]❌ Ollama Error:[/bold red] Is Ollama running? ({e})")
+            console.print(f"[bold red]❌ Model Error:[/bold red] {e}")
             sys.exit(1)
 
-    # 4. Parse & Display
+    # 5. Parse & Display
     try:
-        data = json.loads(response['response'])
+        # Sanitize output (remove markdown blocks if present)
+        clean_json = raw_response.replace("```json", "").replace("```", "").strip()
+        data = json.loads(clean_json)
         
         # RATING
         rating = data.get('rating', 0)
+        if isinstance(rating, str):
+            try: rating = int(rating.split('/')[0])
+            except: rating = 0
+
         color = "green" if rating >= 8 else "yellow" if rating >= 5 else "red"
         console.print(f"\n[bold {color}]RATING: {rating}/10[/bold {color}]")
         
@@ -98,8 +84,8 @@ def roast_resume(pdf_path):
             console.print(f" ✅ {tip}")
             
     except json.JSONDecodeError:
-        console.print("[bold red]❌ Error:[/bold red] The model burped and didn't output valid JSON.")
-        console.print(response['response'])
+        console.print("[bold red]❌ Error:[/bold red] The model output invalid JSON.")
+        console.print(f"Raw Output: {raw_response}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
