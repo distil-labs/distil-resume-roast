@@ -8,7 +8,6 @@ from rich.progress import Progress, SpinnerColumn, TextColumn
 
 console = Console()
 
-# --- 1. ADDED: Prompt Generator (The missing instruction layer) ---
 def generate_roast_prompt(resume_text):
     return f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -50,7 +49,7 @@ def roast_resume(pdf_path):
         console.print("[bold yellow]⚠️ Warning:[/bold yellow] This PDF looks empty or is a scanned image.")
         return
 
-    # 3. Call Ollama (Local)
+ 
     with Progress(
         SpinnerColumn("dots", style="red"),
         TextColumn("[bold red]Roasting this poor soul...[/bold red]"),
@@ -58,7 +57,7 @@ def roast_resume(pdf_path):
     ) as progress:
         progress.add_task("roasting", total=None)
         
-        # --- 2. ADDED: Wrap the text in the prompt instructions ---
+  
         final_prompt = generate_roast_prompt(resume_text)
 
         try:
