@@ -8,7 +8,7 @@ from rich.progress import Progress, SpinnerColumn, TextColumn
 
 console = Console()
 
-
+# --- 1. ADDED: Prompt Generator (The missing instruction layer) ---
 def generate_roast_prompt(resume_text):
     return f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
@@ -50,10 +50,7 @@ def roast_resume(pdf_path):
         console.print("[bold yellow]⚠️ Warning:[/bold yellow] This PDF looks empty or is a scanned image.")
         return
 
-    # --- 3. PREPARE THE PROMPT  ---
-    final_prompt = generate_roast_prompt(resume_text)
-
-    # 4. Call Ollama (Local)
+    # 3. Call Ollama (Local)
     with Progress(
         SpinnerColumn("dots", style="red"),
         TextColumn("[bold red]Roasting this poor soul...[/bold red]"),
@@ -61,6 +58,9 @@ def roast_resume(pdf_path):
     ) as progress:
         progress.add_task("roasting", total=None)
         
+        # --- 2. ADDED: Wrap the text in the prompt instructions ---
+        final_prompt = generate_roast_prompt(resume_text)
+
         try:
             response = ollama.generate(
                 model='roast_master', 
@@ -76,7 +76,7 @@ def roast_resume(pdf_path):
             console.print(f"[bold red]❌ Ollama Error:[/bold red] Is Ollama running? ({e})")
             sys.exit(1)
 
-    # 5. Parse & Display
+    # 4. Parse & Display
     try:
         data = json.loads(response['response'])
         
@@ -100,7 +100,7 @@ def roast_resume(pdf_path):
             
     except json.JSONDecodeError:
         console.print("[bold red]❌ Error:[/bold red] The model burped and didn't output valid JSON.")
-        console.print(f"Raw Output: {response['response']}")
+        console.print(response['response'])
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
