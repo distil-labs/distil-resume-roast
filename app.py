@@ -11,7 +11,7 @@ app = Flask(__name__)
 MODEL_NAME = "roast_master" 
 PORT = 11434
 
-# Initialize the Standard Client
+# Initialize the Client
 try:
     client = DistilLabsLLM(model_name=MODEL_NAME, port=PORT)
     print(f"✅ Connected to Model Client (Target: {MODEL_NAME})")
@@ -59,7 +59,7 @@ def roast():
         if len(resume_text.strip()) < 50:
             return jsonify({"error": "Could not read text. Is this PDF empty or scanned?"}), 400
 
-        # 2. Call the Model
+        # 2. Call the Model 
         raw_response = client.invoke(resume_text)
 
         # 3. Clean & Parse Output
