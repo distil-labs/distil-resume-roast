@@ -118,30 +118,21 @@ Note: I tried to be critical but maintained a professional tone.
 }
 ```
 
-### 4. Conclusion
-
-The fine-tuning process **successfully eliminated the formatting hallucinations** present in the base model and **significantly enhanced the "Roaster" persona**, making the outputs more structured, consistent, and aligned with the intended tone.
-
-
-### **Examples**
-
----
-
-#### 🟦 Example 1
+#### 🟦 Example 2
 <p align="center">
   <img src="./examples/rr-1.png" width="550" alt="Example 1" />
 </p>
 
 ---
 
-#### 🟩 Example 2
+#### 🟩 Example 3
 <p align="center">
   <img src="./examples/rr-2.png" width="550" alt="Example 2" />
 </p>
 
 ---
 
-#### 🟥 Example 3
+#### 🟥 Example 4
 <p align="center">
   <img src="./examples/rr-3.png" width="550" alt="Example 2" />
 </p>
@@ -152,6 +143,12 @@ The fine-tuning process **successfully eliminated the formatting hallucinations*
 - **Student:** Llama-3.2-3B-Instruct  
 - **Teacher:** openai.gpt-oss-120b 
 - **Dataset:** 10,000 synthetic examples
+
+### 4. Conclusion
+
+The fine-tuning process **successfully eliminated the formatting hallucinations** present in the base model and **significantly enhanced the "Roaster" persona**, making the outputs more structured, consistent, and aligned with the intended tone.
+
+
 
 ## ❓ FAQ
 
