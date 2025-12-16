@@ -30,7 +30,7 @@ Available models hosted on HuggingFace:
 Download your fine-tuned GGUF model and register it with Ollama.
 
 ```bash
-hf download Priyansu19/Distil-Rost-Resume-Llama-3.2-3B-Instruct --local-dir distil-model
+hf download distil-labs/Distil-Rost-Resume-Llama-3.2-3B-Instruct --local-dir distil-model
 
 cd distil-model
 # Create the Ollama model from the Modelfile
