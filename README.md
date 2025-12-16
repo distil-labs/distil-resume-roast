@@ -23,7 +23,7 @@ pip install huggingface_hub ollama rich pymupdf
 ```
 Available models hosted on HuggingFace:
 
-- **[Priyansu19/Distil-Rost-Resume-Llama-3.2-3B-Instruct](https://huggingface.co/Priyansu19/Distil-Rost-Resume-Llama-3.2-3B-Instruct)**
+- **[distil-labs/Distil-Rost-Resume-Llama-3.2-3B-Instruct](https://huggingface.co/distil-labs/Distil-Rost-Resume-Llama-3.2-3B-Instruct)**
 
 ### **2. Setup the Model**
 
