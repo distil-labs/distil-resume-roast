@@ -211,7 +211,7 @@ But since it outputs **structured JSON**, you can simply hide the `roast` field 
 Stay connected with Distil Labs and explore our ecosystem:
 
 <p align="left">
-  <a href="https://www.linkedin.com/company/distil-labs/posts/?feedView=all">
+  <a href="https://www.linkedin.com/company/distil-labs/">
     <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 
@@ -227,7 +227,7 @@ Stay connected with Distil Labs and explore our ecosystem:
     <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Badge" />
   </a>
 
-  <a href="https://distil-labs-community.slack.com/ssb/redirect">
+  <a href="https://distil-labs-community.slack.com/join/shared_invite/zt-36zqj87le-i3quWUn2bjErRq22xoE58g#/shared-invite/email">
     <img src="https://img.shields.io/badge/Slack-Join%20Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" />
   </a>
 </p>
