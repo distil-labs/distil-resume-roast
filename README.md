@@ -210,28 +210,26 @@ But since it outputs **structured JSON**, you can simply hide the `roast` field 
 
 Stay connected with Distil Labs and explore our ecosystem:
 
-<p align="left">
-  <a href="https://www.linkedin.com/company/distil-labs/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+<p align="center">
+  <a href="https://www.distillabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=distil-resume-roast">
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-distillabs-home.svg?raw=true" alt="Distil Labs Homepage" />
   </a>
-
-  <a href="https://www.distillabs.ai/">
-    <img src="https://img.shields.io/badge/Website-Distil%20Labs-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+  <a href="https://github.com/distil-labs">
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-github.svg?raw=true" alt="GitHub" />
   </a>
-
   <a href="https://huggingface.co/distil-labs">
-    <img src="https://img.shields.io/badge/HuggingFace-Models-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge" />
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-huggingface.svg?raw=true" alt="Hugging Face" />
   </a>
-
-  <a href="https://www.distillabs.ai/contact">
-    <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Badge" />
+  <a href="https://www.linkedin.com/company/distil-labs/">
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-linkedin.svg?raw=true" alt="LinkedIn" />
   </a>
-
-  <a href="https://distil-labs-community.slack.com/join/shared_invite/zt-36zqj87le-i3quWUn2bjErRq22xoE58g#/shared-invite/email">
-    <img src="https://img.shields.io/badge/Slack-Join%20Community-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge" />
+  <a href="https://distil-labs-community.slack.com/join/shared_invite/zt-36zqj87le-i3quWUn2bjErRq22xoE58g">
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-slack.svg?raw=true" alt="Slack" />
+  </a>
+  <a href="https://x.com/distil_labs">
+    <img src="https://github.com/distil-labs/badges/blob/main/badge-twitter.svg?raw=true" alt="Twitter" />
   </a>
 </p>
-
 
 
 
